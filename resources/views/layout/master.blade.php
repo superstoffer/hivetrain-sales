@@ -29,11 +29,13 @@
 </head>
 
 <body>
-
+<div class="container">
+    <p class="masthead-brand"><img src="/images/hive-train-logo.png" width="150px"/></p>
+</div>
 <div class="site-wrapper">
+
     <div class="site-wrapper-inner">
         <div class="cover-container">
-            <p class="masthead-brand"><img src="/images/hive-train-logo.png" width="150px"/></p>
             <div class="masthead clearfix youtube">
                 <div class="inner">
                     <iframe class="youtube" width="640" height="360" src="https://www.youtube.com/embed/rGLheRvIl8Q?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -43,7 +45,6 @@
                 <div id="mc_embed_signup">
                     <form action="//hivetrain.us13.list-manage.com/subscribe/post?u=d562ac256c1aa484a8b31e4b4&amp;id=31fc717ba0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                         <div id="mc_embed_signup_scroll">
-                            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
                             <div class="col-sm-12">
                                 <div class="mc-field-group">
                                     <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
